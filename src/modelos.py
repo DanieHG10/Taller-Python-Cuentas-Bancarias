@@ -1,8 +1,3 @@
-"""Modelos principales del sistema.
-
-Este modulo evidencia herencia, reutilizacion de codigo y polimorfismo.
-"""
-
 from __future__ import annotations
 
 from abc import ABC, abstractmethod
@@ -15,10 +10,6 @@ from .excepciones import FondosInsuficientesError, ValorInvalidoError
 @dataclass
 class CuentaBancaria(ABC):
     """Clase abstracta que define el comportamiento comun de una cuenta.
-
-    Es una clase base porque una cuenta bancaria real puede tomar diferentes
-    formas: ahorros, corriente, nomina, etc. Las subclases reutilizan depositar,
-    retirar, validar montos y serializar datos.
     """
 
     numero: str

@@ -1,0 +1,13 @@
+test_banco_no_acepta_cuentas_duplicadas (test_cuentas.TestSistemaCuentasBancarias.test_banco_no_acepta_cuentas_duplicadas) ... ok
+test_banco_transfiere_entre_cuentas (test_cuentas.TestSistemaCuentasBancarias.test_banco_transfiere_entre_cuentas) ... ok
+test_cuenta_ahorros_no_permite_sobregiro (test_cuentas.TestSistemaCuentasBancarias.test_cuenta_ahorros_no_permite_sobregiro) ... ok
+test_cuenta_corriente_permite_sobregiro_controlado (test_cuentas.TestSistemaCuentasBancarias.test_cuenta_corriente_permite_sobregiro_controlado) ... ok
+test_depositar_y_retirar_en_cuenta_ahorros (test_cuentas.TestSistemaCuentasBancarias.test_depositar_y_retirar_en_cuenta_ahorros) ... ok
+test_persistencia_guarda_y_carga_archivo_txt (test_cuentas.TestSistemaCuentasBancarias.test_persistencia_guarda_y_carga_archivo_txt) ... ok
+test_polimorfismo_en_corte_mensual (test_cuentas.TestSistemaCuentasBancarias.test_polimorfismo_en_corte_mensual) ... ok
+test_valida_montos_invalidos (test_cuentas.TestSistemaCuentasBancarias.test_valida_montos_invalidos) ... ok
+
+----------------------------------------------------------------------
+Ran 8 tests in 0.004s
+
+OK

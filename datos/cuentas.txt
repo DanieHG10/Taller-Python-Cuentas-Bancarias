@@ -1,0 +1,2 @@
+{"tipo": "AHORROS", "numero": "AH-001", "titular": "Daniel Moreno", "saldo": 566243.12, "tasa_interes": 0.015}
+{"tipo": "CORRIENTE", "numero": "CC-001", "titular": "Laura Garcia", "saldo": 240000.0, "cupo_sobregiro": 150000.0, "comision_mensual": 5000.0}

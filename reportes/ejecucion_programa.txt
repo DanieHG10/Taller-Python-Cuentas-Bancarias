@@ -1,0 +1,24 @@
+Se cargaron las cuentas desde el archivo de texto.
+
+Cuentas registradas en Banco POO Python
+--------------------------------------------------------------
+AHORROS    | AH-001 | Daniel Moreno        | saldo: 500,000.00
+CORRIENTE  | CC-001 | Laura Garcia         | saldo: 200,000.00
+
+Operaciones realizadas
+--------------------------------------------------------------
+Deposito de 100000 en AH-001
+Retiro de 50000 en CC-001
+Transferencia de 75000 desde AH-001 hacia CC-001
+
+Corte mensual polimorfico
+--------------------------------------------------------------
+Cuenta AH-001 AHORROS: se adiciono interes de 7875.00. Saldo final: 532875.00.
+Cuenta CC-001 CORRIENTE: se desconto comision de 5000.00. Saldo final: 220000.00.
+
+Cuentas registradas en Banco POO Python
+--------------------------------------------------------------
+AHORROS    | AH-001 | Daniel Moreno        | saldo: 532,875.00
+CORRIENTE  | CC-001 | Laura Garcia         | saldo: 220,000.00
+
+Objetos guardados en archivo de texto: /mnt/data/sistema_cuentas_bancarias/datos/cuentas.txt
