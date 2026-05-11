@@ -110,3 +110,22 @@ Ejemplo de una linea guardada:
 ```
 
 \`\`\`
+
+## Link del video
+
+Se adjunta el link del video en youtube con la explicación.
+
+https://youtu.be/hF7aX6oM_TU
+
+---
+
+## Link del repositorio
+
+Se adjunta el link del repositorio en GitHub.
+
+https://github.com/DanieHG10/Taller-Python-Cuentas-Bancarias
+
+
+
+
+
